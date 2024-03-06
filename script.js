@@ -40,7 +40,7 @@ function generateCV() {
     document.getElementById('contactT').innerHTML = document.getElementById('contactField').value;
     document.getElementById('addressT').innerHTML = document.getElementById('addressField').value;
     document.getElementById('gitT').innerHTML = document.getElementById('gitField').value;
-    document.getElementById('instaT').innerHTML = document.getElementById('addressField').value;
+    document.getElementById('instaT').innerHTML = document.getElementById('instaField').value;
     document.getElementById('linkedT').innerHTML = document.getElementById('linkedField').value;
     document.getElementById('objectiveT').innerHTML = document.getElementById('objectiveField').value;
 
